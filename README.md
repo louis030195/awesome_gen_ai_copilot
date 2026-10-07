@@ -278,6 +278,8 @@
 - [OpenViking](https://github.com/volcengine/OpenViking) - 面向 Agent 记忆、知识和 Skills 的上下文数据库。
 - [Hindsight](https://github.com/vectorize-io/hindsight) - 面向长期记忆和个性化检索的 Agent 记忆系统。
 
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - 开发者 alpha 阶段的 Rust 知识存储，支持加密追加记录、设备同步和带范围及有效期限制的 MCP 访问。
+
 ### Research and knowledge workflows
 
 - [STORM](https://github.com/stanford-oval/storm) - 通过多轮研究生成带引用知识文章的系统。
